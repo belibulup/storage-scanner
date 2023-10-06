@@ -1,4 +1,4 @@
-# storage-scanner
+# Description
 Scanning the top 10 folders on your machine that consume the most storage from your disk space.
 
 # Log output
